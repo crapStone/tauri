@@ -1,5 +1,11 @@
 # Changelog
 
+## \[0.1.4]
+
+- Inject invoke key on `script` tags with `type="module"`.
+  - Bumped due to a bump in tauri-utils.
+  - [f03eea9c](https://www.github.com/tauri-apps/tauri/commit/f03eea9c9b964709532afbc4d1dd343b3fd96081) feat(core): inject invoke key on `<script type="module">` ([#2120](https://www.github.com/tauri-apps/tauri/pull/2120)) on 2021-06-29
+
 ## \[0.1.3]
 
 - `Window` is now `Send + Sync` on Windows.

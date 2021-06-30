@@ -1,5 +1,10 @@
 # Changelog
 
+## \[1.0.0-beta.5]
+
+- Inject invoke key on `script` tags with `type="module"`.
+  - [f03eea9c](https://www.github.com/tauri-apps/tauri/commit/f03eea9c9b964709532afbc4d1dd343b3fd96081) feat(core): inject invoke key on `<script type="module">` ([#2120](https://www.github.com/tauri-apps/tauri/pull/2120)) on 2021-06-29
+
 ## \[1.0.0-beta.4]
 
 - Double clicking a `data-tauri-drag-region` element will toggle the window maximized state.
