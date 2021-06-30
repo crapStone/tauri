@@ -121,6 +121,7 @@
     ".changes/hide-phf.md",
     ".changes/hotkey-0.1.2.md",
     ".changes/icon-png-support.md",
+    ".changes/inject-invoke-key-module-script.md",
     ".changes/internal-default-args.md",
     ".changes/invoke-key-performance.md",
     ".changes/is-decorated.md",
